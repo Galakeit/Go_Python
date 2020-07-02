@@ -11,8 +11,8 @@ a = (x_a - x_b)**2
 
 b = (y_a - y_b)**2
 
-c = math.sqrt(a+b)
-round(c, 3)
+c = round(math.sqrt(a+b), 3)
+
 
  
 print(a)
